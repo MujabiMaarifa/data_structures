@@ -84,4 +84,3 @@ plt.show()
 clean_data['death_rate'] = clean_data['Deaths'] / clean_data['Active']
 print(clean_data['death_rate'])
 
-
